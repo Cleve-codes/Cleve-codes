@@ -1,4 +1,4 @@
-# Hi there, I'm [Cleve Momanyi] 👋
+# Hi there, I'm Cleve Momanyi 👋
 
 I'm a young and skilled frontend developer with a passion for creating beautiful and engaging user interfaces. I've always been interested in technology, and I was drawn to programming because of the endless possibilities it offers to create something new and unique.
 
