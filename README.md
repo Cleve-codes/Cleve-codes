@@ -19,6 +19,7 @@ I would also like to later on venture into cybersecurity, It has always been in 
 - HTML
 - CSS
 - JavaScript
+- React
 - Python
 - Git
 - Linux
