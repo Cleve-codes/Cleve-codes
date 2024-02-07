@@ -24,6 +24,8 @@ of frontend development and bringing interfaces to life.
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cleve-codes&theme=dark&hide_border=false)<br/>
 
 
 ### ✍️ Random Dev Quote
